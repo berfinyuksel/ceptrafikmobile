@@ -1,0 +1,20 @@
+include: package:flutter_lints/flutter.yaml
+
+# Additional information about this file can be found at
+# https://dart.dev/guides/language/analysis-options
+
+linter:
+  rules:
+    always_declare_return_types: true
+    prefer_single_quotes: true
+    sort_child_properties_last: true
+    unawaited_futures: true
+    unsafe_html: true
+    use_full_hex_values_for_flutter_colors: true
+    constant_identifier_names: false
+    use_setter_to_change_properties: false
+    file_names: false
+    overridden_fields: false
+    prefer_constructors_over_static_methods: false
+    use_setters_to_change_properties: false
+    sort_pub_dependencies: false
